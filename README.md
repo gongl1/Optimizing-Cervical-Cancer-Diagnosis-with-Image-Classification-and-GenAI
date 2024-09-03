@@ -3,6 +3,6 @@ Computer Vision and Deep Learning Final project
 
 ![plot](./Image/image1.jpg)
 
-!(Image/image2.JPG)
+![plot](./Image/image2.jpg)
 
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+
