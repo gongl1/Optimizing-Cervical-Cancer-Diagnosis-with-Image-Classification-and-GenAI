@@ -1,7 +1,7 @@
 # Optimizing-Cervical-Cancer-Diagnosis-with-Image-Classification-and-GenAI
 Computer Vision and Deep Learning Final project
 
-![plot](./Image/image1.JPG)
+![plot](./Image/image1.jpg)
 
 !(Image/image2.JPG)
 
